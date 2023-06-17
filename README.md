@@ -2,6 +2,20 @@
 Comandos e testes
 
 ---
+## Comandos básicos
+
+Os comandos mais comuns do GitHub são:
+
+| Comando | Descrição |
+| ------- | --------- |
+| `git add [nome-arquivo.txt]` | Define um arquivo para ser enviado no próximo commit |
+| `git add -A` | Considera arquivos deletados e renomeados, atualizando o índice de acordo |
+| `git add .` | Não considera arquivos deletados e não atualiza informações sobre arquivos renomeados |
+| `git status` | Lista todos os arquivos alterados e indica quais serão enviados junto ao próximo commit |
+| `git commit -m "[Mensagem de Commit]"` | Comita as alterações |
+| `git commit -m "[Titulo]" -m "[Descrição]"` | Comita as alterações com uma descrição |
+
+---
 ## Trocar ou Remover uma conta GitHub do Windows
 
 Caso tenha uma conta GitHub e precisa trocar por outra ou atualizar os dados de uma conta, basta seguir esse guia.
