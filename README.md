@@ -12,8 +12,10 @@ Os comandos mais comuns do GitHub são:
 | `git add -A` | Considera arquivos deletados e renomeados, atualizando o índice de acordo |
 | `git add .` | Não considera arquivos deletados e não atualiza informações sobre arquivos renomeados |
 | `git status` | Lista todos os arquivos alterados e indica quais serão enviados junto ao próximo commit |
+| `git log` | Lista o histórico de commits local (todos os feitos na maquina, independente da conta utilizada) |
 | `git commit -m "[Mensagem de Commit]"` | Comita as alterações |
 | `git commit -m "[Titulo]" -m "[Descrição]"` | Comita as alterações com uma descrição |
+| `git push` | Envia todos os commits para o remoto (Github) |
 
 ---
 ## Trocar ou Remover uma conta GitHub do Windows
