@@ -2,6 +2,13 @@
 Comandos e testes
 
 ---
+## Termos
+
+- **Commit:** Basicamente é nome dado ao registro de uma alteração
+- **Local:** O dispositivo onde as alterações são feitas
+- **Remoto:** Onde o repositório está hospedado
+
+---
 ## Comandos básicos
 
 Os comandos mais comuns do GitHub são:
