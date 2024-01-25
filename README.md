@@ -22,6 +22,9 @@ Os comandos mais comuns do GitHub são:
 | `git commit -m "[Mensagem de Commit]"` | Registra uma alteração |
 | `git commit -m "[Titulo]" -m "[Descrição]"` | Registra uma alteração com descrição |
 | `git push` | Envia todos os commits para remoto (Github) |
+| `git checkout --orphan NAMEBRANCH` | Cria uma nova branch onde os commits não serão comparados ao commit de init |
+| `git rm -rf .` | Esvazia o conteudo do projeto sem registrar essa alteração. Em conjunto com `checkout --orphan` se cria uma branch totalmente vazia  |
+| `git push origin NAMEBRANCH` | Push para novas branches é obrigatório especificar o nome da branch local |
 
 ---
 ## Trocar ou Remover uma conta GitHub do Windows
