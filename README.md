@@ -53,4 +53,10 @@ Selecione as credenciais do GitHub que deseja remover e clique no botão "Remove
 
 Repita esse processo para todas as credenciais do GitHub.
 
+### Passo 4: Entrando com a nova conta
+
+Basicamente ao tentar clonar um repositório privado, ou executar um comando `git push` para um reposítório publico, o Git vai solicitar que você faça uma nova autenticação e exibirá a tela a seguir. 
+
+![Formas de autenticar uma nova conta](./images/image3.png)
+
 ---
